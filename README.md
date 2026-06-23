@@ -1,7 +1,7 @@
 <h1 align="center">Aditia</h1>
 
 <p align="center">
-  I build data &amp; ops tools with <b>AI coding agents</b> — and research what users actually do.<br/>
+  <b>AI-native builder.</b> I ship real data &amp; ops tools with AI coding agents — fast — and research what users actually do.<br/>
   <sub>Depok, Indonesia</sub>
 </p>
 
@@ -13,7 +13,7 @@
 
 ---
 
-I ship production tools by **directing AI coding agents** (Claude Code) — the architecture, data modeling, and product calls are mine. Most of it is internal/ops software at **Schoters** (EdTech), so the proof below is live demos, not repos.
+No hedging about it: I build the modern way — **directing AI coding agents** (Claude Code) instead of hand-typing every line, going from idea to a deployed, production-running tool in days. I bring the system design, data modeling, and product judgment; the agents write the code, and the result ships and runs for real users. Most of it is internal ops software at **Schoters** (EdTech), so the proof below is live demos, not repos.
 
 ### 🛠️ Currently building
 
