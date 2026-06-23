@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI-native builder.</b> I ship real data &amp; ops tools with AI coding agents — fast — and research what users actually do.<br/>
-  <sub>Depok, Indonesia</sub>
+  <sub>Indonesia</sub>
 </p>
 
 <p align="center">
