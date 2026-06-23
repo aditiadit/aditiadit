@@ -41,5 +41,3 @@ Before (and alongside) the building, I do real research. **Six peer-reviewed pap
 → Case studies &amp; publications: **[aditiaspace.my.id](https://aditiaspace.my.id)** · one-pager: **[/brief](https://aditiaspace.my.id/brief)**
 
 ---
-
-<p align="center"><sub>B.A. Library &amp; Information Science, Universitas Indonesia · GPA 3.76/4.00</sub></p>
