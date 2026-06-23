@@ -1,7 +1,7 @@
 <h1 align="center">Aditia</h1>
 
 <p align="center">
-  <b>Consumer Insights &amp; Market Research</b> · Quantitative + Mixed-Methods<br/>
+  I build data &amp; ops tools with <b>AI coding agents</b> — and research what users actually do.<br/>
   <sub>Depok, Indonesia</sub>
 </p>
 
@@ -13,41 +13,33 @@
 
 ---
 
-I own a study end to end — from brief and survey design, through statistical analysis, to the report that lands the decision. I turn operational, customer, and market data into segmentation, voice-of-customer signals, and recommendations people act on. Currently BizOps (Data & Insights) at **Schoters**, moving into consumer & market research — and the move is real, not aspirational, backed by peer-reviewed UX work and a 400+ respondent consumer survey.
+I ship production tools by **directing AI coding agents** (Claude Code) — the architecture, data modeling, and product calls are mine. Most of it is internal/ops software at **Schoters** (EdTech), so the proof below is live demos, not repos.
 
-<table>
-<tr>
-<td align="center"><b>401</b><br/><sub>respondents in an<br/>online consumer survey</sub></td>
-<td align="center"><b>287</b><br/><sub>UX responses, benchmarked<br/>vs 21,175 peers</sub></td>
-<td align="center"><b>6</b><br/><sub>peer-reviewed papers<br/>(two as first author)</sub></td>
-</tr>
-</table>
+### 🛠️ Currently building
 
-### Featured research
+**Lestari** — a daily health check-in PWA. `Vite + React` · `Cloudflare Worker` · `D1` · offline-first PWA.
 
-| Study | What it is | |
+### 🚀 Shipped — live, not slideware
+
+| Project | What it is | Stack |
 | --- | --- | --- |
-| **Batik market** (n=401) | Quantitative consumer survey — product attributes &amp; quality drive purchase far more than brand. SPSS, Chi-square. | [Case study →](https://aditiaspace.my.id/batik) |
-| **UI Library website** (n=287) | Peer-reviewed UEQ + usability study, benchmarked against 21,175 responses. | [Case study →](https://aditiaspace.my.id/library) |
-| **iPusnas UX** (n=15) | First-authored mixed-methods study of a national digital-library app (SUS + UEQ). Published at an international conference (Springer, 2023). | [Case study →](https://aditiaspace.my.id/ipusnas) |
+| **[Kelola](https://kelola-app.vercel.app/demo)** ↗ | Tutoring-operations platform — scheduling, auto-reminders, look-ahead planning, holiday handling. My largest build. | Next.js · React · TypeScript · Supabase · shadcn/ui |
+| **Report-automation engine** | Workflow engine that **drafts client reports via the Claude API** — status state machine, role-based access, DOCX export, daily cron. | Cloudflare Worker (Hono) · D1 · Anthropic API |
+| **Program-scheduling engine** | Week-by-week program planner / timetable generator, with a 212-test regression suite. | Cloudflare Worker (Hono) · D1 |
+| **[This portfolio](https://aditiaspace.my.id)** ↗ | Scroll-driven case-study site, static-exported and edge-served. | Next.js · Cloudflare Workers (Static Assets) |
 
-→ **One-page research portfolio: [aditiaspace.my.id/brief](https://aditiaspace.my.id/brief)**
+<sub>Internal Schoters tools are described at capability level — stack and what they do, no internal data.</sub>
 
-### Selected publications
+### 🧰 Stack
 
-- **Aditia** et al. — *Understanding iPusnas User Experience Among Students, Workers, and Housewives.* Springer, 2023 (first author). [`10.1007/978-981-99-8088-8_2`](https://doi.org/10.1007/978-981-99-8088-8_2)
-- **Aditia** et al. — *Evaluation of the Universitas Indonesia Library Website Using UX Questionnaire and Usability Testing.* Media Pustakawan, 2024 (first author). [`10.37014/medpus.v31i1.4987`](https://doi.org/10.37014/medpus.v31i1.4987)
+`Cloudflare Workers` · `D1` · `Hono` · `Next.js / React` · `TypeScript` · `Supabase` · `Tailwind` · `Claude API` · `SQL` · `Git`
 
-<sub>Six peer-reviewed papers in total (two first-authored, four co-authored) across consumer behaviour, UX, and cultural-heritage research — full list on the <a href="https://aditiaspace.my.id/about">portfolio</a>.</sub>
+### 🔬 The other half — research
 
-### Also a builder
+Before (and alongside) the building, I do real research. **Six peer-reviewed papers** (two as first author), and a **400+ respondent consumer survey** I ran solo end to end — brief, questionnaire, SPSS + Chi-square analysis, to a written report. It's why I build the *right* things: I start from what users actually do.
 
-Alongside the research, I ship small AI-assisted web apps to solve real operational problems — e.g. **Kelola**, a tutoring-operations tool (Next.js + Supabase) for auto reminders, look-ahead scheduling, and holiday handling. Research-minded builder: I prototype the systems that turn feedback into action, not just report on them.
-
-### Toolbox
-
-`Survey design` · `Segmentation` · `NPS / Voice-of-Customer` · `Competitive benchmarking` · `Usability testing` · `SPSS` · `Chi-square` · `SQL` · `Airtable` · `Power BI / Tableau` · `Figma`
+→ Case studies &amp; publications: **[aditiaspace.my.id](https://aditiaspace.my.id)** · one-pager: **[/brief](https://aditiaspace.my.id/brief)**
 
 ---
 
-<p align="center"><sub>B.A. Library &amp; Information Science, Universitas Indonesia (GPA 3.76/4.00)</sub></p>
+<p align="center"><sub>B.A. Library &amp; Information Science, Universitas Indonesia · GPA 3.76/4.00</sub></p>
