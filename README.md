@@ -13,7 +13,7 @@
 
 ---
 
-No hedging about it: I build the modern way — **directing AI coding agents** (Claude Code) instead of hand-typing every line, going from idea to a deployed, production-running tool in days. I bring the system design, data modeling, and product judgment; the agents write the code, and the result ships and runs for real users. Most of it is internal ops software at **Schoters** (EdTech), so the proof below is live demos, not repos.
+No hedging about it: I build the modern way — **directing AI coding agents** (Claude Code) instead of hand-typing every line, going from idea to a deployed, production-running tool in days. I bring the system design, data modeling, and product judgment; the agents write the code, and the result ships and runs for real users. Most of it is internal ops software for an EdTech company, so the proof below is live demos, not repos.
 
 ### 🛠️ Currently building
 
@@ -28,7 +28,7 @@ No hedging about it: I build the modern way — **directing AI coding agents** (
 | **Program-scheduling engine** | Week-by-week program planner / timetable generator, with a 212-test regression suite. | Cloudflare Worker (Hono) · D1 |
 | **[This portfolio](https://aditiaspace.my.id)** ↗ | Scroll-driven case-study site, static-exported and edge-served. | Next.js · Cloudflare Workers (Static Assets) |
 
-<sub>Internal Schoters tools are described at capability level — stack and what they do, no internal data.</sub>
+<sub>Internal employer tools are described at capability level — stack and what they do, no internal data.</sub>
 
 ### 🧰 Stack
 
